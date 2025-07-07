@@ -25,20 +25,6 @@ Desarrollar un sistema educativo básico que facilite la gestión de grupos de e
 
 ---
 
-## 🗂 Estructura del Proyecto
-
-/src
-├── Main.java → Menú y flujo principal del sistema
-├── Sistema.java → Lógica del sistema y control general
-├── Usuario.java → Clase modelo para usuarios
-└── Grupo.java → Clase modelo para grupos de estudio
-
-yaml
-Copiar
-Editar
-
----
-
 ## 🛠 Tecnologías Utilizadas
 
 - Lenguaje: **Java SE**
@@ -81,17 +67,7 @@ Ver sesiones de estudio
 
 Salir
 
-yaml
-Copiar
-Editar
 
----
 
-## 👨‍🏫 Datos Académicos
 
-- **Estudiante:** [Tu nombre completo]
-- **Carrera:** [Tu carrera]
-- **Materia:** [Nombre de la materia]
-- **Docente:** [Nombre del docente]
-- **Universidad:** [Nombre de la universidad]
-- **Año:** 2025
+
